@@ -428,6 +428,11 @@ a:hover, a:active, a:focus {
   box-sizing: border-box;
   align-items: stretch;
 }
+
+.work-thumb {
+  border:solid 7px white;
+  background: white;
+}
 /*---------------------------------------
   Contact section              
 -----------------------------------------*/
