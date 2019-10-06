@@ -289,7 +289,14 @@ a:hover, a:active, a:focus {
   text-align: right;
 }
 
+#home h1 {
+  font-size: 55px;
+}
 
+#home p {
+  line-height: 1.5;
+  font-size: 20px;
+}
 
 /*---------------------------------------
   Service section              
